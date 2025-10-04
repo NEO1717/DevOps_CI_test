@@ -1,4 +1,4 @@
-name: Update README with Recent Commits
+name: Update README_2
 
 on:
   schedule:
