@@ -64,6 +64,8 @@ jobs:
     runs-on: ubuntu-latest
     #這會讓機器人載入 "staging" 環境的所有專屬設定
     environment: staging
+    outputs:
+      VERSION: ${{ needs.build.outputs.VERSION }}
 
     steps:
 
@@ -115,7 +117,7 @@ jobs:
       - name: Create Production Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VERSION: ${{ needs.build.outputs.VERSION }}
+          VERSION: ${{ needs.staging.outputs.VERSION }}
           TAG_PREFIX: ${{ vars.TAG_PREFIX }}
           RELEASE_NOTE: ${{ vars.RELEASE_NOTE }}
 
