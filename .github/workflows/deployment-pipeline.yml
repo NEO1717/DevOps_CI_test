@@ -91,7 +91,7 @@ jobs:
   # 第三個工作：部署至 Production 環境 (deploy-production)
   production:
     name: Deploy to Production
-    needs: deploy-staging # <--- 關鍵點 1: 依賴 staging 工作
+    needs: staging # <--- 關鍵點 1: 依賴 staging 工作
     runs-on: ubuntu-latest
     environment: production # <--- 關鍵點 2: 指定 production 環境，觸發審核
     steps:
