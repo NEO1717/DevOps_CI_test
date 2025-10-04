@@ -4,6 +4,11 @@ name: CI/CD Deployment Pipeline
 on:
   workflow_dispatch:
 
+
+permissions:
+  contents: write
+
+
 jobs:
   # 第一個工作：建置
   build:
@@ -102,7 +107,7 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
+
       - name: Download Build Artifact
         uses: actions/download-artifact@v4
         with:
