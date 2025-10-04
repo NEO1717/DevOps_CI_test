@@ -18,7 +18,7 @@ jobs:
         with:
           GITHUB_USERNAME: "neo1717"
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          EVENT_LIMIT: 10
+          EVENT_LIMIT: 100
           OUTPUT_STYLE: MARKDOWN
           IGNORE_EVENTS: "[]"
           HIDE_DETAILS_ON_PRIVATE_REPOS: false
