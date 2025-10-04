@@ -1,0 +1,112 @@
+
+name: CI/CD Deployment Pipeline
+
+on:
+  workflow_dispatch:
+
+jobs:
+  # 第一個工作：建置
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      VERSION: ${{ steps.get_version.outputs.VERSION }}
+
+    steps:
+      # 步驟 1: 從儲存庫 Checkout 程式碼
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 步驟 2: 設定 Node.js 環境
+      # 注意：如果您的專案不是 Node.js，請更換為對應的設定步驟
+      # Node.js 就好比一個「精通JavaScript的廚師」。
+      # 它能看懂用 JavaScript 寫的食譜，並且知道如何使用 npm 這個工具（廚師的萬用刀）來處理食材、烹煮料理。
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 步驟 3: 動態讀取 package.json 的版本號
+      # 這是達成 O 等級「動態參數化版本號」的關鍵步驟
+      - name: Get Project Version
+        id: get_version
+        run: echo "VERSION=$(jq -r .version package.json)" >> $GITHUB_OUTPUT
+
+      # 步驟 4: 安裝專案依賴並建置
+      # 這裡的指令需根據您的專案調整 (例如 python setup.py install)
+      - name: Install Dependencies and Build
+        run: |
+          npm install
+          npm run build
+
+      # 步驟 5: 將建置好的產物打包成 zip 檔
+      # 這裡假設 `npm run build` 會產生一個 dist 資料夾
+      - name: Package Build Artifact
+        run: zip -r build-artifact.zip dist
+
+      # 步驟 6: 上傳建置產物
+      # 讓後續的 job 可以下載並使用這個 zip 檔
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-artifact
+          path: build-artifact.zip
+
+  # 第二個工作：測試(部署到Staging)
+  staging:
+    name: Deploy to Staging
+    # 一條非常重要的規則：必須等 "build" 工作站成功完成後才能開始
+    needs: build
+    runs-on: ubuntu-latest
+    #這會讓機器人載入 "staging" 環境的所有專屬設定
+    environment: staging
+
+    steps:
+    # 使用官方提供的「下載產物」工具
+      - name: Download Build Artifact
+        uses: actions/download-artifact@v4
+        with:
+        # 指定要下載哪個便當，名字必須跟 build 工作站上傳時一樣
+          name: build-artifact
+
+      # 步驟2：貼上 Staging 標籤並正式記錄
+      - name: Create Staging Release
+        env:
+        # GITHUB_TOKEN: 一張通行證，讓機器人有權限在GitHub上建立發行版本
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # VERSION: 機器人需要知道這個便當的版本號，
+          # 它會去 build 工作站的產出報告裡查詢
+          VERSION: ${{ needs.build.outputs.VERSION }}
+
+          # 查詢我們設定好的環境變數，得知標籤前綴應該是 "staging"
+          TAG_PREFIX: ${{ vars.TAG_PREFIX }}
+          # RELEASE_NOTE: 同上，查詢 staging 環境專屬的發行說明
+          RELEASE_NOTE: ${{ vars.RELEASE_NOTE }}
+
+        # 命令機器人執行「建立發行版本」的動作
+        # 它會組合所有資訊，例如標籤是 "staging-v1.0.0"
+        run: |
+          gh release create "${TAG_PREFIX}-${VERSION}" build-artifact.zip --notes "${RELEASE_NOTE}"
+  
+  # 第三個工作：部署至 Production 環境 (deploy-production)
+  production:
+    name: Deploy to Production
+    needs: deploy-staging # <--- 關鍵點 1: 依賴 staging 工作
+    runs-on: ubuntu-latest
+    environment: production # <--- 關鍵點 2: 指定 production 環境，觸發審核
+    steps:
+      - name: Download Build Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build-artifact
+      - name: Create Production Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VERSION: ${{ needs.build.outputs.VERSION }}
+          TAG_PREFIX: ${{ vars.TAG_PREFIX }}
+          RELEASE_NOTE: ${{ vars.RELEASE_NOTE }}
+
+        # 呼叫github助理，填上階段與版本標籤後，附上artifact檔案，和發行說明
+        run: |
+          gh release create "${TAG_PREFIX}-${VERSION}" build-artifact.zip --notes "${RELEASE_NOTE}"
+  
