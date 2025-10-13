@@ -10,8 +10,10 @@
     "yaml": "^2.8.1"
   },
   "scripts": {
-    "build": "ncc build src/index.js --license licenses.txt"
-  },
+  "build": "ncc build src/index.js --license licenses.txt",
+  "test:unit": "echo '✔ Running mock unit tests...' && exit 0",
+  "test:integration": "echo '✔ Running mock integration tests...' && exit 0"
+},
   "devDependencies": {
     "@vercel/ncc": "^0.38.3"
   }

@@ -55,12 +55,54 @@ jobs:
         with:
           name: build-artifact
           path: build-artifact.zip
+  
+  # 新增工作：單元測試 (test-unit)
+  test-unit:
+    name: Run Unit Tests
+    needs: build # 必須等待 'build' 成功完成
+    runs-on: ubuntu-latest
+    steps:
+      # 步驟 1: 測試前，一樣需要先 Checkout 程式碼
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      # 步驟 2: 設定 Node.js 環境，因為測試指令也需要它
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      # 步驟 3: 安裝依賴項，這樣才能執行測試
+      - name: Install Dependencies
+        run: npm install
+        
+      # 步驟 4: 執行我們在 package.json 中定義的單元測試指令
+      - name: Run Unit Test Script
+        run: npm run test:unit
+
+  test-integration:
+    name: Run Integration Tests
+    needs: test-unit # 必須等待 'test-unit' 成功完成
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Dependencies
+        run: npm install
+      - name: Run Integration Test Script
+        run: npm run test:integration     
+
+
 
   # 第二個工作：測試(部署到Staging)
   staging:
     name: Deploy to Staging
     # 一條非常重要的規則：必須等 "build" 工作站成功完成後才能開始
-    needs: build
+    needs: [build, test-integration]
     runs-on: ubuntu-latest
     #這會讓機器人載入 "staging" 環境的所有專屬設定
     environment: staging
@@ -68,7 +110,6 @@ jobs:
       VERSION: ${{ needs.build.outputs.VERSION }}
 
     steps:
-
       - name: Checkout Repository
         uses: actions/checkout@v4
       
