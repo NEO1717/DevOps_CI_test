@@ -1,6 +1,6 @@
 {
   "name": "devops-activity-log",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A GitHub Action to log repository activity.",
   "main": "src/index.js",
   "dependencies": {
