@@ -78,7 +78,7 @@ jobs:
         
       # 步驟 4: 執行我們在 package.json 中定義的單元測試指令
       - name: Run Unit Test Script
-        run: npm run test:unit
+        run: npm run test:unit || (echo "❌ Unit tests failed!" && exit 1)
 
   test-integration:
     name: Run Integration Tests
@@ -94,7 +94,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Run Integration Test Script
-        run: npm run test:integration     
+        run: npm run test:integration || (echo "❌ Integration tests failed!" && exit 1)
 
 
 
