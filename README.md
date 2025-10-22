@@ -17,6 +17,12 @@
 
 ## Recent Activity Update_2
 <!-- LATEST_COMMITS:START -->
+- [🔧 Update unit test script to simulate success](https://github.com/NEO1717/DevOps20251001/commit/02eff6241141092a387e6bf43c84150190fc51b6)
+- [🔧 Update unit test script to simulate failure](https://github.com/NEO1717/DevOps20251001/commit/b5d7a6ad182e9e73d4b217ec5476c50eed541cdb)
+- [chore: Bump version to 3.0.1 in package.json](https://github.com/NEO1717/DevOps20251001/commit/228e08ee4a4b91f01d5db023c7058578a33e1952)
+- [Merge branch &#39;main&#39; of https://github.com/NEO1717/DevOps20251001](https://github.com/NEO1717/DevOps20251001/commit/ffedd441fb07329bf9a285e9ae992813d49376ee)
+- [🔧 Add unit and integration test scripts to package.json](https://github.com/NEO1717/DevOps20251001/commit/21b7d1f0e2e04e79475c9674b9a12f70a1da9e98)
+- [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/8dac3a746898b7255bab5978a8d04fcccc0cfab2)
 - [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/dd402973e59ae84388d070bc183dba3ebd7aea41)
 - [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/df22a4e073bffee5afcfdb40c413d65d5326ed88)
 - [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/09f8d12f61b0c1987ee9f9c90353335ab7b99d75)
@@ -31,12 +37,6 @@
 - [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/ab74637c6f8ba76b852dacd6edb7c7239341f271)
 - [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/1505b3f22e19dcd022e792fb4402e7a2c8a83bd2)
 - [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/28599db514fd307d6f93509f9aad835a4d775d0e)
-- [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/19e0b454a22288f8ec71ff33fe7a58cb37eb057f)
-- [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/faa59b18efa93261f6ac9539fa86a13e6fa6ced5)
-- [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/591504df08424e658bbd2a0571baa474fed08aa6)
-- [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/ba14ed708e26fd916704611d09a498ef3d008eca)
-- [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/2225fef9bdecb55c8930bbf84d181566a55ae6a6)
-- [chore: Update README with recent commits](https://github.com/NEO1717/DevOps20251001/commit/8bb3b237f06c7a9c88b3be5613eb2d8c5171e77e)
 <!-- LATEST_COMMITS:END -->
 
 
