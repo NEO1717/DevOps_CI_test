@@ -3,6 +3,7 @@ name: Deployment Pipeline
 
 on:
   workflow_dispatch:
+  pull_request:
 
 
 permissions:
