@@ -1,10 +1,7 @@
-
-
-
-
-
-
-
-
-＃Experiment 3 — Different files
-＃幫我在這個branch隨便創一個.txt檔打字就行
+#Experiment 1 Same file, same lines 
+line 1 - hi this is neal
+line 2 - hi this is jayterry and Gruandal
+#Experiment 2 Same file, different lines 
+line 1 - hi this is neal
+line 2 - hi this is jayterry
+line 3 - change this line  #幫我編輯line 3這一行 @123
