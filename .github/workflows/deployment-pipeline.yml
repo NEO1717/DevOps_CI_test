@@ -104,6 +104,10 @@ jobs:
     name: Deploy to Staging
     # 一條非常重要的規則：必須等 "build" 工作站成功完成後才能開始
     needs: [build, test-integration]
+    
+    #手動觸發workflow才會跑staging
+    if: github.event_name == 'workflow_dispatch'
+    
     runs-on: ubuntu-latest
     #這會讓機器人載入 "staging" 環境的所有專屬設定
     environment: staging
@@ -145,6 +149,10 @@ jobs:
   production:
     name: Deploy to Production
     needs: staging # <--- 關鍵點 1: 依賴 staging 工作
+    
+    #手動觸發workflow才會跑staging
+    if: github.event_name == 'workflow_dispatch'
+    
     runs-on: ubuntu-latest
     environment: production # <--- 關鍵點 2: 指定 production 環境，觸發審核
 
