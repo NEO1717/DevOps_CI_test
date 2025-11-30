@@ -10,7 +10,6 @@
 7. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/fd5b0bd9b0fd7c9f910e6978fb2a2fee3217b5d7)
 8. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/cd52a20f5b266de17e131f215cd1484cf7d4450b)
 9. ✨ Created a new branch [`master`](https://github.com/NEO1717/devops-otel-assignment/tree/master) in [NEO1717/devops-otel-assignment](https://github.com/NEO1717/devops-otel-assignment)
-10. ⭐ Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
 <!--END_SECTION:activity-->
 
 
