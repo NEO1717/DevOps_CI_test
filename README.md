@@ -1,15 +1,16 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. 🌍 Made repository [NEO1717/Deal](https://github.com/NEO1717/Deal) public
-2. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/51ef61850c224178a6598710c2702ebb14dde0ca)
-3. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/cbac3543a2b62dd1b3e9fc46e5ae42c704afba2e)
-4. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/fa218e1bb10851e4b56a902edb45730eba856720)
-5. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/2b178bdab31a0ad1323a8ba7d720128d45a7383a)
-6. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/da61b7567912921ea5674b243d29159e184ab00e)
-7. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/fd5b0bd9b0fd7c9f910e6978fb2a2fee3217b5d7)
-8. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/cd52a20f5b266de17e131f215cd1484cf7d4450b)
-9. ✨ Created a new branch [`master`](https://github.com/NEO1717/devops-otel-assignment/tree/master) in [NEO1717/devops-otel-assignment](https://github.com/NEO1717/devops-otel-assignment)
+1. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/0df9630c09dd0d769fb8f24dc4eb6c5c0ca7ca1e)
+2. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/63f06595e142a369afb5883ef1a9f20d7d0c5c9f)
+3. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/ab3a38fb7d6d1fe35f6fb21545b6ae061304489d)
+4. ✨ Created a new branch [`main`](https://github.com/NEO1717/DealPilot/tree/main) in [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot)
+5. 🌍 Made repository [NEO1717/Deal](https://github.com/NEO1717/Deal) public
+6. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/51ef61850c224178a6598710c2702ebb14dde0ca)
+7. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/cbac3543a2b62dd1b3e9fc46e5ae42c704afba2e)
+8. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/fa218e1bb10851e4b56a902edb45730eba856720)
+9. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/2b178bdab31a0ad1323a8ba7d720128d45a7383a)
+10. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/da61b7567912921ea5674b243d29159e184ab00e)
 <!--END_SECTION:activity-->
 
 
