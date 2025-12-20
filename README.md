@@ -9,8 +9,6 @@
 6. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/ab3a38fb7d6d1fe35f6fb21545b6ae061304489d)
 7. ✨ Created a new branch [`main`](https://github.com/NEO1717/DealPilot/tree/main) in [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot)
 8. 🌍 Made repository [NEO1717/Deal](https://github.com/NEO1717/Deal) public
-9. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/51ef61850c224178a6598710c2702ebb14dde0ca)
-10. 🚀 Committed to [NEO1717/DevOps_CI_test](https://github.com/NEO1717/DevOps_CI_test/commit/cbac3543a2b62dd1b3e9fc46e5ae42c704afba2e)
 <!--END_SECTION:activity-->
 
 
