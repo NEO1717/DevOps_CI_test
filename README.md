@@ -2,9 +2,6 @@
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
 1. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/229a04f025acc25612925c453985edb238002159)
-2. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/f66e09411f161e39b0764f0b55641871c5793cee)
-3. 🆕 Opened an issue [#630](https://github.com/lemonade-sdk/lemonade/issues/630) in [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)
-4. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/0df9630c09dd0d769fb8f24dc4eb6c5c0ca7ca1e)
 <!--END_SECTION:activity-->
 
 
