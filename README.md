@@ -1,11 +1,15 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/29aad9492f086dbfde47052d8fb6b3890affa526)
-2. 🔥 Deleted a branch `master` in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
-3. ✨ Created a new branch [`B1`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/B1) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
-4. ✨ Created a new branch [`master`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/master) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
-5. ✨ Created a new branch [`main`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/main) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+1. 🔀 Merged [PR #1](https://github.com/NEO1717/Neal-Yang-self-Introduction/pull/1) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+2. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/5dde7d8e6f50be5f61478fd7179776c7cdb560d1)
+3. 🔀 Opened [PR #1](https://github.com/NEO1717/Neal-Yang-self-Introduction/pull/1) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+4. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/0a82c12b3ebd2f225b82b51c8264e94ac665b6e0)
+5. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/29aad9492f086dbfde47052d8fb6b3890affa526)
+6. 🔥 Deleted a branch `master` in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+7. ✨ Created a new branch [`B1`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/B1) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+8. ✨ Created a new branch [`master`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/master) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+9. ✨ Created a new branch [`main`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/main) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
 <!--END_SECTION:activity-->
 
 
