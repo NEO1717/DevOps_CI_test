@@ -1,7 +1,10 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [NEO1717/DealPilot](https://github.com/NEO1717/DealPilot/commit/229a04f025acc25612925c453985edb238002159)
+1. 🔥 Deleted a branch `master` in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+2. ✨ Created a new branch [`B1`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/B1) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+3. ✨ Created a new branch [`master`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/master) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
+4. ✨ Created a new branch [`main`](https://github.com/NEO1717/Neal-Yang-self-Introduction/tree/main) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
 <!--END_SECTION:activity-->
 
 
