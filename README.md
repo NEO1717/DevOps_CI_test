@@ -5,8 +5,6 @@
 2. 🔀 Merged [PR #4](https://github.com/NEO1717/Neal-Yang-self-Introduction/pull/4) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
 3. 🔀 Opened [PR #4](https://github.com/NEO1717/Neal-Yang-self-Introduction/pull/4) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
 4. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/6c4187fe427ade745321003a8104c89657c10ff0)
-5. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/2b35f5a1b02dbc3ef31e1299278526bf374ab0ba)
-6. 🔀 Merged [PR #3](https://github.com/NEO1717/Neal-Yang-self-Introduction/pull/3) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
 <!--END_SECTION:activity-->
 
 
