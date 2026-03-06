@@ -1,10 +1,7 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/2abf36b7d932daee6bdf5c71428e5f68c4349a79)
-2. 🔀 Merged [PR #4](https://github.com/NEO1717/Neal-Yang-self-Introduction/pull/4) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
-3. 🔀 Opened [PR #4](https://github.com/NEO1717/Neal-Yang-self-Introduction/pull/4) in [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction)
-4. 🚀 Committed to [NEO1717/Neal-Yang-self-Introduction](https://github.com/NEO1717/Neal-Yang-self-Introduction/commit/6c4187fe427ade745321003a8104c89657c10ff0)
+1. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 <!--END_SECTION:activity-->
 
 
