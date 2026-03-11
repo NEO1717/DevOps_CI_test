@@ -1,9 +1,10 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
-2. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
-3. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+1. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+2. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
+3. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
+4. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 <!--END_SECTION:activity-->
 
 
