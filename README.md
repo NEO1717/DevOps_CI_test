@@ -1,10 +1,12 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
-2. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
-3. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
-4. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+1. ⭐ Starred [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
+2. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+3. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+4. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
+5. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
+6. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 <!--END_SECTION:activity-->
 
 
