@@ -1,12 +1,14 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. ⭐ Starred [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
-2. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-3. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
-4. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
-5. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
-6. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+1. ⭐ Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+2. ⭐ Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
+3. ⭐ Starred [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
+4. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+5. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+6. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
+7. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
+8. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 <!--END_SECTION:activity-->
 
 
