@@ -1,15 +1,16 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
-2. ⭐ Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
-3. ⭐ Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
-4. ⭐ Starred [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
-5. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-6. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
-7. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
-8. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
-9. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+1. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
+2. ⭐ Starred [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata)
+3. ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
+4. ⭐ Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+5. ⭐ Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
+6. ⭐ Starred [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
+7. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+8. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+9. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
+10. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
 <!--END_SECTION:activity-->
 
 
