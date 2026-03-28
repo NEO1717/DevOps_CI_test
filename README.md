@@ -1,16 +1,16 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-2. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
-3. ⭐ Starred [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata)
-4. ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
-5. ⭐ Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
-6. ⭐ Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
-7. ⭐ Starred [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
-8. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-9. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
-10. ⭐ Starred [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev)
+1. ⭐ Starred [minbrowser/min](https://github.com/minbrowser/min)
+2. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+3. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
+4. ⭐ Starred [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata)
+5. ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
+6. ⭐ Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+7. ⭐ Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
+8. ⭐ Starred [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
+9. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+10. ⭐ Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
 <!--END_SECTION:activity-->
 
 
