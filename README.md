@@ -3,7 +3,7 @@
 <!--START_SECTION:activity-->
 1. ⭐ Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 2. ⭐ Starred [madeyexz/heptabase-cli](https://github.com/madeyexz/heptabase-cli)
-3. ⭐ Starred [jackwener/opencli](https://github.com/jackwener/opencli)
+3. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
 4. ⭐ Starred [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
 5. ⭐ Starred [minbrowser/min](https://github.com/minbrowser/min)
 6. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
