@@ -1,16 +1,16 @@
 
 ## Recent Activity Update_1
 <!--START_SECTION:activity-->
-1. ⭐ Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-2. ⭐ Starred [madeyexz/heptabase-cli](https://github.com/madeyexz/heptabase-cli)
-3. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
-4. ⭐ Starred [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
-5. ⭐ Starred [minbrowser/min](https://github.com/minbrowser/min)
-6. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
-7. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
-8. ⭐ Starred [LennysNewsletter/lennys-newsletterpodcastdata](https://github.com/LennysNewsletter/lennys-newsletterpodcastdata)
-9. ⭐ Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
-10. ⭐ Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+1. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+2. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+3. ⭐ Starred [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
+4. ⭐ Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+5. ⭐ Starred [madeyexz/heptabase-cli](https://github.com/madeyexz/heptabase-cli)
+6. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
+7. ⭐ Starred [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
+8. ⭐ Starred [minbrowser/min](https://github.com/minbrowser/min)
+9. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+10. ⭐ Starred [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)
 <!--END_SECTION:activity-->
 
 
