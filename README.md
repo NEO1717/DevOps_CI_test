@@ -10,7 +10,6 @@
 7. ⭐ Starred [madeyexz/heptabase-cli](https://github.com/madeyexz/heptabase-cli)
 8. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
 9. ⭐ Starred [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
-10. ⭐ Starred [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 
 
