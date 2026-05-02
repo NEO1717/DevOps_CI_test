@@ -9,7 +9,6 @@
 6. ⭐ Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 7. ⭐ Starred [madeyexz/heptabase-cli](https://github.com/madeyexz/heptabase-cli)
 8. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
-9. ⭐ Starred [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
 <!--END_SECTION:activity-->
 
 
