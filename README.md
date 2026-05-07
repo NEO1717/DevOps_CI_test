@@ -6,8 +6,6 @@
 3. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 4. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 5. ⭐ Starred [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
-6. ⭐ Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-7. ⭐ Starred [madeyexz/heptabase-cli](https://github.com/madeyexz/heptabase-cli)
 <!--END_SECTION:activity-->
 
 
