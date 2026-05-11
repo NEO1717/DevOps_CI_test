@@ -3,9 +3,6 @@
 <!--START_SECTION:activity-->
 1. 🏷️ Added a label to an issue [#3527](https://github.com/superset-sh/superset/issues/3527) in [superset-sh/superset](https://github.com/superset-sh/superset)
 2. 🆕 Opened an issue [#3527](https://github.com/superset-sh/superset/issues/3527) in [superset-sh/superset](https://github.com/superset-sh/superset)
-3. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-4. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-5. ⭐ Starred [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
 <!--END_SECTION:activity-->
 
 
